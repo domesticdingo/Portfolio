@@ -20,9 +20,9 @@ const Homepage = () => {
                         <Image src={prof} alt="Portrait of Indigo" />
                         <h2 style={{'color':'#F0F0F0'}}>Indigo Richards</h2>
                         <p style={{'color':'#F0F0F0'}}>dingorichards@gmail.com</p>
-                        <SideLink to="https://www.linkedin.com/in/indigo-richards-121458a9/">LinkedIn</SideLink>{"\n"}
-                        <SideLink to="https://github.com/domesticdingo">GitHub</SideLink>{"\n"}
-                        <SideLink to="https://resume.creddle.io/resume/iperhru0anr">Resumé</SideLink>{"\n"}
+                        <SideLink href="https://www.linkedin.com/in/indigo-richards-121458a9/">LinkedIn</SideLink>{"\n"}
+                        <SideLink href="https://github.com/domesticdingo">GitHub</SideLink>{"\n"}
+                        <SideLink href="https://resume.creddle.io/resume/iperhru0anr">Resumé</SideLink>{"\n"}
                         <p style={{'color':'#F0F0F0'}}>Working everyday to become a leader and more proficient programmer.</p>
                     </Sidebar>
 

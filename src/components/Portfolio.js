@@ -15,7 +15,7 @@ const Portfolio = () => {
                     <h2><a href="https://github.com/domesticdingo/MyDish">MyDish</a></h2>
                     <h3>Mobile app for users to add and store recipes and build their personal cookbook.</h3>
                     <ul>
-                        <li>Was a part of the web dev team focused on the front and back ends of the app, building the UX design and updating the database to handle our additions.</li>
+                        <li>Collaborated with the web dev team focused on the front and back ends of the app, building the UX design and updating the database to handle our additions.</li>
                         <li>Developed new aspects of the user experience such as editing recipes and adding images, as well as redesigning the layout of the app.</li>
                         <li>Expanded upon the backend to allow new user functions such as tagging recipes with their course, as well as adding/changing endpoints to allow frontend to have new accessibility for the data.</li>
                     </ul>
