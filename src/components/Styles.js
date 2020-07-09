@@ -59,7 +59,7 @@ export const Sidebar = styled.div`
     }
 `
 
-export const SideLink = styled(Link)`
+export const SideLink = styled.a`
     color: #F0F0F0;
     text-decoration: none;
     &:hover {
