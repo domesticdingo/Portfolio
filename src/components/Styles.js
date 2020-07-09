@@ -1,5 +1,4 @@
 import styled, { createGlobalStyle } from 'styled-components';
-import { Link } from 'react-router-dom';
 
 import LeagueSpartanRegular from '../fonts/LeagueSpartanRegular.woff';
 import LeagueSpartanRegular2 from '../fonts/LeagueSpartanRegular.woff2';
@@ -93,11 +92,14 @@ export const PortfolioBox = styled.div`
     background-color: #F0F0F0;
     border: 1px solid #F0F0F0;
     border-radius: 10px;
-    width: 60%;
+    width: 50%;
     height: auto;
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 
     @media (max-width: 500px) {
         width: auto;
